@@ -1,103 +1,100 @@
-<!-- ================= HERO SECTION ================= -->
+<!-- ================= HERO GRADIENT ================= -->
 
-<!-- Banner: put banner.jpg in this repo -->
 <p align="center">
-  <img src="banner.jpg" alt="Student Performance Analytics Dashboard" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0b1120&textColor=ffffff&height=120&section=header&text=Student%20Performance%20%26%20Data%20Analytics&fontSize=26&desc=B%20M%20Bharath%20%E2%80%A2%20Data%20Science%20%7C%20ML%20%7C%20Dashboards&descAlignY=75&descSize=14"
+    alt="Student Performance & Data Analytics Banner"
+  />
 </p>
 
-<!-- Main card -->
-<div align="center">
-  <div style="max-width: 920px; padding: 32px 28px; border-radius: 24px; background: #ffffff; box-shadow: 0 18px 45px rgba(15, 23, 42, 0.18);">
-
-  <h1 style="font-size: 2.3rem; margin-bottom: 4px; color:#020617;">
-    Student Performance & Data Analytics
-  </h1>
-  <p style="color:#64748b; margin-top: 0;">
-    Study Habits • Attendance • Learning Styles • Stress &amp; Motivation • ML &amp; Dashboards
-  </p>
-
-  <!-- Mini info row -->
-  <p>
-    <b>B M Bharath</b> · Data Science &amp; ML · B.Tech CSE (AI &amp; ML)  
-    <br/>
-    <a href="https://github.com/bm-bharath">GitHub</a> ·
-    <a href="https://www.linkedin.com/in/bmbharath83/">LinkedIn</a> ·
-    <a href="mailto:bharathbm83@gmail.com">Email</a>
-  </p>
-
-  <!-- Icon cards row -->
-  <table>
-    <tr>
-      <td align="center" style="padding: 16px;">
-        <div style="padding:18px 22px;border-radius:18px;background:#f8fafc;">
-          <div>📅</div>
-          <b>Attendance</b>
-          <p style="color:#64748b; font-size: 0.85rem;">Patterns, alerts &amp; early warning.</p>
-        </div>
-      </td>
-      <td align="center" style="padding: 16px;">
-        <div style="padding:18px 22px;border-radius:18px;background:#f8fafc;">
-          <div>🧠</div>
-          <b>Learning Styles</b>
-          <p style="color:#64748b; font-size: 0.85rem;">Understanding how users learn.</p>
-        </div>
-      </td>
-      <td align="center" style="padding: 16px;">
-        <div style="padding:18px 22px;border-radius:18px;background:#f8fafc;">
-          <div>📉</div>
-          <b>Stress &amp; Motivation</b>
-          <p style="color:#64748b; font-size: 0.85rem;">Insights from behavior &amp; data.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-
-  </div>
-</div>
+<!-- Optional dashboard screenshot (your blue UI) -->
+<p align="center">
+  <img src="banner.jpg" alt="Student Performance Analytics Dashboard" width="90%" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 Overview
 
-- B.Tech in Computer Science and Engineering (AI &amp; ML), focused on Data Science, Machine Learning, and Analytics.  
-- Enjoy building end‑to‑end pipelines: data collection → cleaning → modeling → interactive dashboards.  
-- Looking for roles where data products actually change decisions in education, finance, and IoT domains.  
-
----
-
-## 🛠 Analytics Tech Stack
-
-- **Languages:** Python, SQL, Java, C  
-- **ML & Data:** Pandas, NumPy, Scikit‑learn, TensorFlow/Keras, LightGBM, EDA, feature engineering  
-- **BI & Dashboards:** Power BI, Tableau, Excel  
-- **Data & Cloud:** MySQL, SQL Server, Firebase  
-- **Dev & Design:** Git/GitHub, Jupyter, Google Colab, Canva, Photoshop  
-
----
-
-## 📊 Key Data Projects
-
-- **Student Performance Analytics Dashboard**  
-  Modern analytics UI for tracking study habits, attendance, learning styles, and stress/motivation with clear charts and cards.
-
-- **Risk Analytics in Banking**  
-  Python + MySQL backend with Power BI dashboards to analyze loan performance, client profiles, and risk KPIs.
-
-- **YouTube Analytics API Suite**  
-  Automated pipeline using YouTube Data API, OCR, and computer vision to study channel performance and content design.
-
-- **IoT Milk Quality Checker**  
-  Sensor‑driven device + LightGBM + Firebase to monitor milk parameters and estimate adulteration risk in real time.
-
----
-
-## 📈 GitHub at a Glance
+**Hi, I'm B M Bharath – Data Science & ML Engineer focused on building analytics dashboards and decision systems.**  
+B.Tech CSE (AI & ML) with hands‑on work in ML models, data pipelines, and BI dashboards for education, banking, and IoT use cases.[file:22]
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bm-bharath&show_icons=true&theme=vue&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bm-bharath&layout=compact&theme=vue&hide_border=true" height="160" />
+  <a href="https://github.com/bm-bharath">
+    <img src="https://img.shields.io/badge/GitHub-bm--bharath-111827?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/bmbharath83/">
+    <img src="https://img.shields.io/badge/LinkedIn-B%20M%20Bharath-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bharathbm83@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bharathbm83%40gmail.com-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 Dashboard Modules
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/📅%20Attendance-0ea5e9?style=for-the-badge&labelColor=0b1120" />
+  <img src="https://img.shields.io/badge/🧠%20Learning%20Styles-38bdf8?style=for-the-badge&labelColor=020617" />
+  <img src="https://img.shields.io/badge/📉%20Stress%20%26%20Motivation-22c55e?style=for-the-badge&labelColor=022c22" />
+
+</p>
+
+- **Attendance:** Patterns, alerts, and early warning logic for at‑risk learners.  
+- **Learning Styles:** Understanding how users learn from behavioral and performance data.  
+- **Stress & Motivation:** Turning subtle trends into actionable wellness and support signals.  
+
+---
+
+## 🧠 Analytics Tech Stack
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-0b1120?style=for-the-badge&logo=python&logoColor=0ea5e9" />
+  <img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=postgresql&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/C-020617?style=for-the-badge&logo=c&logoColor=38bdf8" />
 </p>
 
 <p align="center">
-  <i>Let’s build data stories that feel like clean dashboards, not messy spreadsheets.</i>
+  <!-- Data / ML -->
+  <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=0ea5e9" />
+  <img src="https://img.shields.io/badge/Scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=facc15" />
+  <img src="https://img.shields.io/badge/TensorFlow-0b1120?style=for-the-badge&logo=tensorflow&logoColor=f97316" />
+  <img src="https://img.shields.io/badge/LightGBM-022c22?style=for-the-badge&logoColor=22c55e&labelColor=020617" />
+</p>
+
+<p align="center">
+  <!-- BI / Databases -->
+  <img src="https://img.shields.io/badge/Power%20BI-facc15?style=for-the-badge&logo=powerbi&logoColor=111827" />
+  <img src="https://img.shields.io/badge/Tableau-0f172a?style=for-the-badge&logo=tableau&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Excel-14532d?style=for-the-badge&logo=microsoftexcel&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=0ea5e9" />
+  <img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=facc15" />
+</p>
+
+---
+
+## 🚀 Highlight Projects
+
+- **Student Performance Analytics Dashboard** – Clean, card‑based UI to analyze study habits, attendance, learning styles, and stress & motivation for students and educators.  
+- **Risk Analytics in Banking** – Python + MySQL + Power BI pipeline that computes risk KPIs and visualizes loan performance to support lending decisions.[file:22]  
+- **YouTube Analytics API Suite** – Automated retrieval, cleaning, and visualization of YouTube channel data with OCR and detection for titles and thumbnails.[file:22]  
+- **IoT Milk Quality Checker** – Sensor device + LightGBM + Firebase backend to estimate milk quality and flag adulteration in real time.[file:22]  
+
+---
+
+## 📈 GitHub Analytics (Blue Theme)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bm-bharath&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bm-bharath&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <i>Designing data experiences that feel like modern dashboards, not boring reports.</i>
 </p>

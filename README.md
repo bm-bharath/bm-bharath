@@ -1,98 +1,104 @@
-<!-- HERO PANEL -->
-<p align="center">
-  <img src="banner.jpg" alt="Student Performance Analytics Dashboard" width="100%" />
-</p>
-
+<!-- PROFILE HEADER -->
 <div align="center">
-  
-  <!-- TITLE CARD -->
-  <h1>📊 B M Bharath</h1>
-  <h3>Data Science • Machine Learning • Analytics Dashboards</h3>
 
-  <!-- STATUS BADGES -->
-  <img src="https://img.shields.io/badge/Role-Data%20Science%20/ %20Analytics%20Enthusiast-1D4ED8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-ML%20Models%20%7C%20Dashboards%20%7C%20Automation-059669?style=for-the-badge" />
+  <img src="banner.jpg" alt="Analytics Banner" width="100%" />
+
   <br/><br/>
 
-  <!-- QUICK LINKS -->
-  <a href="https://github.com/bm-bharath">
-    <img src="https://img.shields.io/badge/GitHub-bm--bharath-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/bmbharath83/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:bharathbm83@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://avatars.githubusercontent.com/u/107808533?v=4" width="140" style="border-radius:50%;" />
+
+  <h1>Hi there, I'm <b>B M Bharath</b> 👋</h1>
+  <h3>Data Science • Machine Learning • Analytics Dashboards</h3>
+
+  <p>
+    B.Tech CSE (AI & ML) graduate with a strong foundation in Data Science, ML, and Data Analytics, focused on turning data into clear stories and decisions. [file:22]
+  </p>
+
+  <p>
+    <a href="https://github.com/bm-bharath">
+      <img src="https://img.shields.io/badge/GitHub-bm--bharath-181717?style=for-the-badge&logo=github" />
+    </a>
+    <a href="https://www.linkedin.com/in/bmbharath83/">
+      <img src="https://img.shields.io/badge/LinkedIn-B%20M%20Bharath-0A66C2?style=for-the-badge&logo=linkedin" />
+    </a>
+    <a href="mailto:bharathbm83@gmail.com">
+      <img src="https://img.shields.io/badge/Email-bharathbm83%40gmail.com-EA4335?style=for-the-badge&logo=gmail" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-## 🔍 Overview Panel
+## 💡 About Me
 
-> Turning messy data into clean visuals, predictive models, and decision‑ready dashboards.
-
-- 🎓 B.Tech CSE (AI & ML) – building real‑world analytics & ML solutions.  
-- 🧮 Enjoys feature engineering, EDA, and building end‑to‑end data flows.  
-- 🎯 Goal: Data Scientist / Data Analyst roles where dashboards meet deep ML.  
+- 🎓 B.Tech in Computer Science and Engineering (AI & ML) – Kalasalingam Academy of Research and Education (CGPA 8.37). [file:22]  
+- 🧮 Enjoy building ML models, analytics dashboards, and data pipelines that solve real problems. [file:22]  
+- 🎯 Seeking Data Science / Data Analytics roles where business questions meet clean data and clear visuals. [file:22]  
 
 ---
 
-## 🧰 Tech Stack Board
+## 🧠 Expertise
+
+Passionate about designing end‑to‑end data workflows, from data collection and cleaning to modeling and BI reporting. [file:22]  
+Experienced in image classification, risk analytics, and real‑time IoT analytics, with a focus on reliable, production‑ready solutions. [file:22]  
+
+---
+
+## 🛠 Tech Stack
+
+| Area | Tools |
+|------|-------|
+| **Languages** | Python • Java • C • SQL [file:22] |
+| **Data & ML** | Pandas • NumPy • Scikit‑learn • TensorFlow / Keras • LightGBM • EDA • Data Cleaning [file:22] |
+| **BI & Viz** | Power BI • Tableau • Excel [file:22] |
+| **Data & Cloud** | MySQL • SQL Server • Firebase [file:22] |
+| **Workflow** | Git/GitHub • Jupyter • Google Colab • Canva • Photoshop [file:22] |
+
+---
+
+## 📊 Selected Projects
+
+**Student Performance Analytics Dashboard**  
+Interactive dashboard to explore study habits, attendance, learning styles, and stress/motivation, designed with a modern SaaS‑style UI for educators and students. [file:22]  
+
+**Risk Analytics in Banking**  
+End‑to‑end pipeline in Python + MySQL with Power BI dashboards to analyze customer profiles, loan performance, and risk KPIs for better lending decisions. [file:22]  
+
+**YouTube Analytics API Integration**  
+Tool that integrates YouTube Data API with data cleaning, visualization, and text processing (OCR, detection) to understand channel performance and content trends. [file:22]  
+
+**Milk Quality Checker (IoT + ML)**  
+Low‑cost IoT system with pH, temperature, density, and color sensors plus a LightGBM model and Firebase backend for real‑time adulteration detection. [file:22]  
+
+---
+
+## 🏅 Highlights
+
+- ML Intern at Vjayam Technologies – built a VGG16‑based image classification model for molded rubber components and integrated it into quality control pipelines. [file:22]  
+- Student President, IUCEE KARE Student Chapter – led the chapter to the Best Student Chapter Award (IUCEE IASF 2025). [file:22]  
+- Research paper published in JEET on Synesthetic Learning Pedagogy for Engineering Education. [file:22]  
+- Finalist/runner‑up in multiple national hackathons and coding contests (HACKHEIST 2K24, IBM ICE Day, CODEATHON, CODE COMBAT). [file:22]  
+
+---
+
+## 🌐 Socials
 
 <div align="center">
 
-| Area | Badges |
-|------|--------|
-| **Core** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/> |
-| **Data & ML** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/> |
-| **BI & Viz** | <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/> |
-| **DB & Cloud** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=000"/> |
-| **Workspace** | <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=000"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> |
+<a href="https://www.linkedin.com/in/bmbharath83/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/bm-bharath">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="mailto:bharathbm83@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail" />
+</a>
 
 </div>
 
 ---
 
-## 📈 Analytics Projects Wall
-
-### 🧭 Student Performance Analytics Dashboard
-A full analytics workspace for study habits, attendance, learning styles, stress & motivation, inspired by modern SaaS dashboards.
-
-**Highlights**
-- Clean UI with cards, charts, and filters for quick insights.  
-- KPIs for attendance, performance clusters, risk flags, and trends.  
-
----
-
-### 🏦 Banking Risk Analytics Suite
-- Multi‑table integration (customer, loans, deposits) with Python + SQL.  
-- Power BI dashboard for loan default risk and portfolio monitoring.  
-
-### 📺 YouTube Intelligence Layer
-- Uses YouTube API + OCR + detection to analyze titles, thumbnails & metrics.  
-- Visual reports for content performance and audience engagement.  
-
-### 🥛 Smart Milk Quality Monitor
-- Sensor‑based IoT device + LightGBM model + Firebase backend.  
-- Real‑time alerts for possible adulteration and quality drift.  
-
----
-
-## 🏅 Achievements Panel
-
-- 🏆 Best Student Chapter Award – IUCEE IASF 2025 (as Student President).  
-- 📄 Published in JEET (Synesthetic Learning Pedagogy in Engineering).  
-- 🎖 Finalist & runner‑up in multiple hackathons and coding competitions.  
-
----
-
-## 📊 Activity Snapshot
-
 <div align="center">
-
-![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=bm-bharath&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bm-bharath&layout=compact&theme=radical)
-
-</div
+  <sub>“Data tells a story — I love giving it a great UI.”</sub

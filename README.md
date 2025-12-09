@@ -1,7 +1,4 @@
-<!-- Banner / Hero -->
-<p align="center">
-  <img src="banner.jpg" alt="Student Performance Analytics Dashboard" width="100%" />
-</p>
+
 
 <h1 align="center">Hey, I'm <b>B M Bharath</b> 👋</h1>
 <p align="center">

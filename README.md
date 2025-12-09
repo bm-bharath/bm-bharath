@@ -1,86 +1,71 @@
+<!-- Banner / Hero -->
+<p align="center">
+  <img src="banner.jpg" alt="Student Performance Analytics Dashboard" width="100%" />
+</p>
 
-<h1 align="center">Hi, I'm <strong>B M Bharath</strong> 👋</h1>
-<h3 align="center">AI & ML Engineer • Data Science Enthusiast • IoT Innovator • Open to Global Opportunities 🌍</h3>
+<h1 align="center">Hey, I'm <b>B M Bharath</b> 👋</h1>
+<p align="center">
+  <b>Data Science & Analytics • ML • Dashboards & Automation</b>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2200&pause=900&color=00F0FF&center=true&vCenter=true&width=600&lines=AI+%2B+ML+Engineer+%7C+Data+Analyst;IoT+Systems+Builder+%7C+ML+Model+Developer;AIML+Graduate+Actively+Seeking+Global+Roles;Building+Useful+AI+for+the+Real+World" />
+  <a href="https://github.com/bm-bharath"><img src="https://img.shields.io/badge/GitHub-bm--bharath-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/bmbharath83/"><img src="https://img.shields.io/badge/LinkedIn-B%20M%20Bharath-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:bharathbm83@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
 
-## 🚀 About Me
-I’m an **AI & ML Engineer** driven by curiosity and a passion for building intelligent systems that **actually work in the real world** — from **deep learning pipelines** to **IoT + ML devices** and **data analytics dashboards**.
+## 🚀 What I Do
 
-I blend:
-- 🧠 **Machine Learning & Deep Learning**
-- 📊 **Data Analytics & BI Tools**
-- 🌐 **IoT + Cloud Integration**
-- 🎯 **Leadership, research & strong communication**
-
-I’m currently **open to global roles** in:
-**Data Science • Machine Learning • AI Engineer • Data Analytics • ML Ops**
+- Turn raw data into interactive dashboards & actionable insights.  
+- Build ML models for prediction, classification & risk analytics.  
+- Design end‑to‑end data solutions: collection → cleaning → modeling → visualization.  
 
 ---
 
-## ⚡ Snapshot Of Who I Am
-- 🎓 **B.Tech CSE (AI & ML)** — CGPA 8.37  
-- 📈 **ML Internship:** Built & deployed a VGG16 model in real manufacturing workflow  
-- 🥛 **IoT Innovator:** Created an ML-powered IoT milk quality checker  
-- 🏆 **Leadership:** President of IUCEE Student Chapter (Award-winning chapter)  
-- 📄 **Research Published:** JEET Journal (Engineering Education)  
-- 🔥 **Multiple Hackathon & Competition Finalist**
+## 🧠 Tech & Tools
+
+**Languages:** Python • SQL • Java • C  
+
+**Data & ML:** Pandas • NumPy • Scikit‑learn • TensorFlow / Keras • LightGBM • EDA  
+
+**BI & Viz:** Power BI • Tableau • Excel  
+
+**Databases:** MySQL • SQL Server  
+
+**Dev & Others:** Git/GitHub • Jupyter • Google Colab • Firebase  
 
 ---
 
-## 🧰 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pytorch,sklearn,opencv,java,c,mysql,sqlite,git,github,powershell,linux,visualstudio,vscode&perline=9" />
-</p>
+## 📊 Highlight Projects
+
+### 🎓 Student Performance Analytics Dashboard
+Analytics dashboard for study habits, attendance, learning styles, stress & motivation with clean, modern UI and drill‑down insights.
+
+### 🏦 Risk Analytics in Banking
+End‑to‑end risk analytics system with MySQL + Python backend and Power BI dashboards to support loan approval decisions.
+
+### 📺 YouTube Analytics API Suite
+Automated pipeline to fetch, clean and visualize YouTube channel metrics, with OCR and detection for thumbnail/title analysis.
+
+### 🥛 IoT‑based Milk Quality Checker
+Sensor‑driven device + ML (LightGBM) + Firebase backend to monitor milk parameters and detect possible adulteration in real time.
 
 ---
 
-## 📊 GitHub Metrics (Modern Dark UI)
+## 🎖 Milestones
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bm-bharath&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bm-bharath&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bm-bharath&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bm-bharath&theme=react-dark&hide_border=true&area=true" />
-</p>
+- ML Intern @ Vjayam Technologies – VGG16‑based visual inspection model for rubber components.  
+- Student President – IUCEE KARE Student Chapter (Best Student Chapter Award – IUCEE IASF 2025).  
+- Research publication in JEET on Synesthetic Learning Pedagogy for Engineering Education.  
+- Hackathon & coding contest finalist/runner‑up across multiple national‑level events.  
 
 ---
 
-## 🧩 Career Highlights
-- 🧪 Built production-ready **ML models** using TensorFlow & Keras  
-- ⚙️ Integrated ML solutions into **real industrial workflows** (manufacturing QC)  
-- 🥛 Engineered a **sensor-driven IoT + ML device** for milk adulteration detection  
-- 📊 Designed **data dashboards** (Power BI, MySQL, EDA workflows)  
-- ✨ Led an award-winning student chapter, managing events & collaborations  
-- 🗣️ Strong communication skills — public speaking, mentoring, presentations  
+## 📬 Let’s Connect
 
----
+💼 LinkedIn: [bmbharath83](https://www.linkedin.com/in/bmbharath83/)  
+📧 Email: [bharathbm83@gmail.com](mailto:bharathbm83@gmail.com)  
 
-## 🧠 What I'm Focusing On Right Now
-- Advanced ML architectures (CNNs, LSTMs, Transformers)  
-- Data Engineering & Pipelines  
-- Deploying ML models in real-world environments  
-- Preparing for global **DS/ML interviews**  
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/bm-bharath/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" /></a>
-  <a href="mailto:bharathbm83@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" /></a>
-  <a href="https://github.com/bm-bharath"><img src="https://skillicons.dev/icons?i=github" width="48" /></a>
-</p>
-
----
-
-<h3 align="center">✨ “Engineering intelligence with clarity, precision, and purpose.” ✨</h3>
+⭐ If you like any of my projects, consider dropping a star or reaching out to collaborate!

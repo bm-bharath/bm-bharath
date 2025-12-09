@@ -1,5 +1,9 @@
 <!-- HERO PANEL -->
+<p align="center">
+  <img src="banner.jpg" alt="Student Performance Analytics Dashboard" width="100%" />
+</p>
 
+<div align="center">
   
   <!-- TITLE CARD -->
   <h1>📊 B M Bharath</h1>

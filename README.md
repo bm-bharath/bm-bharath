@@ -1,18 +1,4 @@
-<!-- ================= HERO GRADIENT ================= -->
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0b1120&textColor=ffffff&height=120&section=header&text=Student%20Performance%20%26%20Data%20Analytics&fontSize=26&desc=B%20M%20Bharath%20%E2%80%A2%20Data%20Science%20%7C%20ML%20%7C%20Dashboards&descAlignY=75&descSize=14"
-    alt="Student Performance & Data Analytics Banner"
-  />
-</p>
-
-<!-- Optional dashboard screenshot (your blue UI) -->
-<p align="center">
-  <img src="banner.jpg" alt="Student Performance Analytics Dashboard" width="90%" />
-</p>
-
----
 
 ## 🎯 Overview
 
@@ -30,22 +16,6 @@ B.Tech CSE (AI & ML) with hands‑on work in ML models, data pipelines, and BI d
     <img src="https://img.shields.io/badge/Email-bharathbm83%40gmail.com-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-## 📊 Dashboard Modules
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/📅%20Attendance-0ea5e9?style=for-the-badge&labelColor=0b1120" />
-  <img src="https://img.shields.io/badge/🧠%20Learning%20Styles-38bdf8?style=for-the-badge&labelColor=020617" />
-  <img src="https://img.shields.io/badge/📉%20Stress%20%26%20Motivation-22c55e?style=for-the-badge&labelColor=022c22" />
-
-</p>
-
-- **Attendance:** Patterns, alerts, and early warning logic for at‑risk learners.  
-- **Learning Styles:** Understanding how users learn from behavioral and performance data.  
-- **Stress & Motivation:** Turning subtle trends into actionable wellness and support signals.  
 
 ---
 
@@ -78,23 +48,3 @@ B.Tech CSE (AI & ML) with hands‑on work in ML models, data pipelines, and BI d
 </p>
 
 ---
-
-## 🚀 Highlight Projects
-
-- **Student Performance Analytics Dashboard** – Clean, card‑based UI to analyze study habits, attendance, learning styles, and stress & motivation for students and educators.  
-- **Risk Analytics in Banking** – Python + MySQL + Power BI pipeline that computes risk KPIs and visualizes loan performance to support lending decisions.[file:22]  
-- **YouTube Analytics API Suite** – Automated retrieval, cleaning, and visualization of YouTube channel data with OCR and detection for titles and thumbnails.[file:22]  
-- **IoT Milk Quality Checker** – Sensor device + LightGBM + Firebase backend to estimate milk quality and flag adulteration in real time.[file:22]  
-
----
-
-## 📈 GitHub Analytics (Blue Theme)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bm-bharath&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bm-bharath&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <i>Designing data experiences that feel like modern dashboards, not boring reports.</i>
-</p>

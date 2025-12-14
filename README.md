@@ -3,7 +3,7 @@
 ## 🎯 Overview
 
 **Hi, I'm B M Bharath – Data Science & ML Engineer focused on building analytics dashboards and decision systems.**  
-B.Tech CSE (AI & ML) with hands‑on work in ML models, data pipelines, and BI dashboards for education, banking, and IoT use cases.[file:22]
+B.Tech CSE (AI & ML) with hands‑on work in ML models, data pipelines, and BI dashboards for education, banking, and IoT use cases.
 
 <p align="center">
   <a href="https://github.com/bm-bharath">

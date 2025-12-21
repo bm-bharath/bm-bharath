@@ -1,50 +1,69 @@
+# B M Bharath
 
-
-## 🎯 Overview
-
-**Hi, I'm B M Bharath – Data Science & ML Engineer focused on building analytics dashboards and decision systems.**  
-B.Tech CSE (AI & ML) with hands‑on work in ML models, data pipelines, and BI dashboards for education, banking, and IoT use cases.
-
-<p align="center">
-  <a href="https://github.com/bm-bharath">
-    <img src="https://img.shields.io/badge/GitHub-bm--bharath-111827?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/bmbharath83/">
-    <img src="https://img.shields.io/badge/LinkedIn-B%20M%20Bharath-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bharathbm83@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bharathbm83%40gmail.com-22c55e?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+AI & Machine Learning | Data Analytics | Business Intelligence  
+India
 
 ---
 
-## 🧠 Analytics Tech Stack
+## About Me
+AI & Machine Learning graduate with strong experience in data analytics, cloud data platforms, and applied machine learning.  
+I build end-to-end data solutions — from data ingestion and transformation to dashboards, models, and insights.
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-0b1120?style=for-the-badge&logo=python&logoColor=0ea5e9" />
-  <img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=postgresql&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=f97316" />
-  <img src="https://img.shields.io/badge/C-020617?style=for-the-badge&logo=c&logoColor=38bdf8" />
-</p>
+---
 
-<p align="center">
-  <!-- Data / ML -->
-  <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=22c55e" />
-  <img src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=0ea5e9" />
-  <img src="https://img.shields.io/badge/Scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=facc15" />
-  <img src="https://img.shields.io/badge/TensorFlow-0b1120?style=for-the-badge&logo=tensorflow&logoColor=f97316" />
-  <img src="https://img.shields.io/badge/LightGBM-022c22?style=for-the-badge&logoColor=22c55e&labelColor=020617" />
-</p>
+## Tech Stack
 
-<p align="center">
-  <!-- BI / Databases -->
-  <img src="https://img.shields.io/badge/Power%20BI-facc15?style=for-the-badge&logo=powerbi&logoColor=111827" />
-  <img src="https://img.shields.io/badge/Tableau-0f172a?style=for-the-badge&logo=tableau&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/Excel-14532d?style=for-the-badge&logo=microsoftexcel&logoColor=22c55e" />
-  <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=0ea5e9" />
-  <img src="https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=facc15" />
-</p>
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
+
+### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow)
+![LightGBM](https://img.shields.io/badge/LightGBM-0B5F3C?style=for-the-badge)
+
+### Analytics, Cloud & Databases
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
+![SQL%20Server](https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver)
+![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure)
+![Databricks](https://img.shields.io/badge/Databricks-000000?style=for-the-badge&logo=databricks)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
+
+---
+
+## Projects
+- **Retail & Customer Analytics** – Azure Medallion Architecture, Synapse, Power BI  
+- **Student Performance Analytics Dashboard** – Python, Power BI, Data Visualization  
+- **IoT-based Milk Quality Monitoring** – Sensors, ML Models, ESP8266  
+- **Sales Analytics & Forecasting Dashboards** – Trend analysis, KPIs
+
+> Each project includes detailed documentation and visuals inside its repository.
+
+---
+
+## Research & Publications
+- *An IoT-Enabled Milk Quality Monitoring System Using Machine Learning*  
+- *Synesthetic Learning Pedagogy* – Journal of Engineering Education Transformations  
+
+---
+
+## Soft Skills
+- Teamwork & Collaboration  
+- Leadership & Public Speaking  
+- Critical Thinking & Problem Solving  
+- Adaptability & Time Management  
+
+---
+
+## Contact
+- GitHub: https://github.com/bm-bharath  
+- LinkedIn: *(add your LinkedIn URL)*  
 
 ---

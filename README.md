@@ -1,69 +1,73 @@
-# B M Bharath
+# 👋 Hi, I'm B M Bharath
 
-AI & Machine Learning | Data Analytics | Business Intelligence  
-India
+🎓 **B.Tech CSE (AI & ML)** | 📊 **Data Science & Analytics Enthusiast**  
+📍 India | 🌍 Open to Global Opportunities  
 
----
-
-## About Me
-AI & Machine Learning graduate with strong experience in data analytics, cloud data platforms, and applied machine learning.  
-I build end-to-end data solutions — from data ingestion and transformation to dashboards, models, and insights.
+I’m a **data-driven problem solver** with hands-on experience in **data analysis, machine learning, and analytics dashboards**.  
+I enjoy turning **raw data into meaningful insights** and building **end-to-end data solutions**.
 
 ---
 
-## Tech Stack
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c)
-
-### Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow)
-![LightGBM](https://img.shields.io/badge/LightGBM-0B5F3C?style=for-the-badge)
-
-### Analytics, Cloud & Databases
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql)
-![SQL%20Server](https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver)
-![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure)
-![Databricks](https://img.shields.io/badge/Databricks-000000?style=for-the-badge&logo=databricks)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase)
+## 🧠 What I Do
+- 📊 Data Analysis & Exploratory Data Analysis (EDA)
+- 🤖 Machine Learning & Applied AI
+- 📈 Business Intelligence & Dashboards
+- 🔌 Data Pipelines & Analytics Projects
+- 🧪 Research & Documentation
 
 ---
 
-## Projects
-- **Retail & Customer Analytics** – Azure Medallion Architecture, Synapse, Power BI  
-- **Student Performance Analytics Dashboard** – Python, Power BI, Data Visualization  
-- **IoT-based Milk Quality Monitoring** – Sensors, ML Models, ESP8266  
-- **Sales Analytics & Forecasting Dashboards** – Trend analysis, KPIs
+## 🛠️ Tech Stack
 
-> Each project includes detailed documentation and visuals inside its repository.
+**Languages**  
+`Python` · `SQL` · `Java` · `C`
+
+**Data & ML**  
+`Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `Keras`  
+`EDA` · `Feature Engineering` · `Model Evaluation`
+
+**BI & Visualization**  
+`Power BI` · `Tableau` · `Excel` · `Matplotlib`
+
+**Databases & Platforms**  
+`MySQL` · `SQL Server` · `Databricks` · `Azure Synapse`  
+`Azure Data Factory` · `Azure Data Lake Gen2`
+
+**Other**  
+`Git & GitHub` · `Jupyter Notebook` · `Google Colab`  
+`Generative AI` · `Prompt Engineering`
 
 ---
 
-## Research & Publications
-- *An IoT-Enabled Milk Quality Monitoring System Using Machine Learning*  
+## 🚀 Featured Projects
+- 📌 **Risk Analytics in Banking** – Data-driven KPIs & Power BI dashboard  
+- 📌 **IoT-based Milk Quality Monitoring System** – ML + sensors + Firebase  
+- 📌 **YouTube Data Analytics** – API integration & advanced video analysis  
+- 📌 **Industrial Defect Classification** – Deep Learning (VGG16)
+
+👉 Explore all projects here:  
+🔗 **Portfolio:** https://bm-bharath.github.io
+
+---
+
+## 🏆 Experience & Leadership
+- **ML Intern** – Industrial defect classification using deep learning  
+- **Student President** – IUCEE KARE Student Chapter  
+- **Research Contributor** – Engineering education & ML-based systems  
+
+---
+
+## 📄 Publications
 - *Synesthetic Learning Pedagogy* – Journal of Engineering Education Transformations  
+- *IoT-Enabled Milk Quality Monitoring using ML* – Conference research work  
 
 ---
 
-## Soft Skills
-- Teamwork & Collaboration  
-- Leadership & Public Speaking  
-- Critical Thinking & Problem Solving  
-- Adaptability & Time Management  
+## 📫 Let’s Connect
+- 📧 Email: **bharathbm83@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/bmbharath83/
+- 🌐 Portfolio: https://bm-bharath.github.io
 
 ---
 
-## Contact
-- GitHub: https://github.com/bm-bharath  
-- LinkedIn: *(add your LinkedIn URL)*  
-
----
+⭐ *If you like my work, feel free to star the repositories!*  

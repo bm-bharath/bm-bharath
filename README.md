@@ -1,72 +1,84 @@
 # 👋 Hi, I'm B M Bharath
 
-🎓 **B.Tech CSE (AI & ML)** | 📊 **Data Science & Analytics Enthusiast**  
-📍 India | 🌍 Open to Global Opportunities  
-
-I’m a **data-driven problem solver** with hands-on experience in **data analysis, machine learning, and analytics dashboards**.  
-I enjoy turning **raw data into meaningful insights** and building **end-to-end data solutions**.
+🎯 **Jnr Data Analyst | Business Intelligence | Machine Learning Enthusiast**  
+📍 Actively seeking Data / BI opportunities (UAE • India • Global)
 
 ---
 
-## 🧠 What I Do
-- 📊 Data Analysis & Exploratory Data Analysis (EDA)
-- 🤖 Machine Learning & Applied AI
-- 📈 Business Intelligence & Dashboards
-- 🔌 Data Pipelines & Analytics Projects
-- 🧪 Research & Documentation
+## 🚀 About Me
+
+I am a results-driven **Data Analytics and AI/ML graduate** with hands-on experience in transforming raw data into meaningful insights.  
+I enjoy working at the intersection of **data, business, and technology**, where analytics drives real-world decisions.
+
+I have experience across:
+- Data preprocessing & exploratory analysis (EDA)
+- Dashboarding & business reporting
+- Machine learning model development & evaluation
+- Research-driven problem solving
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Skills
 
-**Languages**  
-`Python` · `SQL` · `Java` · `C`
+### 📊 Data Analytics & BI
+- SQL (Joins, Subqueries, Aggregations, Optimization)
+- Microsoft Excel (Advanced formulas, Pivot Tables)
+- Power BI (DAX, KPI Tracking, Interactive Dashboards)
+- Data Cleaning & Exploratory Data Analysis (EDA)
+- Trend Analysis & Business Insights
 
-**Data & ML**  
-`Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `Keras`  
-`EDA` · `Feature Engineering` · `Model Evaluation`
+### ☁️ Data Engineering & Cloud (Azure)
+- Azure Data Factory
+- Azure Data Lake Gen2
+- Azure Databricks
+- Azure Synapse Analytics
+- ETL Pipeline Design
 
-**BI & Visualization**  
-`Power BI` · `Tableau` · `Excel` · `Matplotlib`
+### 🤖 Machine Learning & AI
+- Supervised & Unsupervised Learning
+- Feature Engineering
+- Model Evaluation & Optimization
+- Time Series Forecasting (LSTM)
+- Generative AI (Foundational knowledge)
 
-**Databases & Platforms**  
-`MySQL` · `SQL Server` · `Databricks` · `Azure Synapse`  
-`Azure Data Factory` · `Azure Data Lake Gen2`
-
-**Other**  
-`Git & GitHub` · `Jupyter Notebook` · `Google Colab`  
-`Generative AI` · `Prompt Engineering`
-
----
-
-## 🚀 Featured Projects
-- 📌 **Risk Analytics in Banking** – Data-driven KPIs & Power BI dashboard  
-- 📌 **IoT-based Milk Quality Monitoring System** – ML + sensors + Firebase  
-- 📌 **YouTube Data Analytics** – API integration & advanced video analysis  
-- 📌 **Industrial Defect Classification** – Deep Learning (VGG16)
-
-👉 Explore all projects here:  
-🔗 **Portfolio:** https://bm-bharath.github.io
-
----
-
-## 🏆 Experience & Leadership
-- **ML Intern** – Industrial defect classification using deep learning  
-- **Student President** – IUCEE KARE Student Chapter  
-- **Research Contributor** – Engineering education & ML-based systems  
+### 🛠 Tools & Technologies
+- Python (pandas, NumPy, matplotlib, scikit-learn)
+- Jupyter Notebook, Google Colab
+- Git & GitHub (Version Control)
+- MySQL, SQL Server
+- Firebase (Basic)
 
 ---
 
-## 📄 Publications
-- *Synesthetic Learning Pedagogy* – Journal of Engineering Education Transformations  
+## 💼 Experience
+
+### 🏢 Junior Data Science Intern  
+**Sentiantal Private Limited**  
+- Data preprocessing, EDA, and insight generation  
+- ML model support and analytics reporting  
+- Dashboard development for stakeholders  
+
+### 🏭 Machine Learning Intern  
+**VJAYAM Technology Engineering Pvt. Ltd.**  
+- VGG16-based image classification using TensorFlow/Keras  
+- Image preprocessing & data augmentation  
+- AI model integration in manufacturing workflows  
 
 ---
 
-## 📫 Let’s Connect
-- 📧 Email: **bharathbm83@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/bmbharath83/
-- 🌐 Portfolio: https://bm-bharath.github.io
+## 🌱 What I'm Currently Doing
+- Actively applying for **Junior Data Analyst / BI roles**
+- Strengthening SQL, Power BI, and Azure analytics skills
+- Building real-world, portfolio-ready analytics projects
 
 ---
 
-⭐ *If you like my work, feel free to star the repositories!*  
+## 📫 Let's Connect
+
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/bmbharath83  
+- 📧 **Email:** bharathbm83@gmail.com
+- 💻 **GitHub:** https://github.com/bm-bharath
+
+---
+
+⭐ *If you find my projects interesting, feel free to star the repositories!*  

@@ -59,7 +59,6 @@ I enjoy turning **raw data into meaningful insights** and building **end-to-end 
 
 ## 📄 Publications
 - *Synesthetic Learning Pedagogy* – Journal of Engineering Education Transformations  
-- *IoT-Enabled Milk Quality Monitoring using ML* – Conference research work  
 
 ---
 
